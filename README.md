@@ -1,3 +1,3 @@
 # DSA
 
-# insert_sort.c code added
+# Insert sort code added.
